@@ -1,0 +1,54 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+    Justin Wang
+    http://bigeagle.me
+    @bigeagle_xd
+    
+    Shan Zi
+    http://diumoo.xiuxiu.de
+    @ant_sz
+    
+    Sean Lee
+    http://notimportant.org
+    @seansay
+    
+    Martin Xiong
+    http://xmartin.org
+    @martin0418
+    
+    Kok Liu
+    http://wocai.de
+    @kokdemo
+    
+    Dai Wei
+    http://daiwei.de
+    @butternofly
+    
+    Serene Night
+    http://www.whoishacker.com
+    @kuanghu
+    
+    jxwr
+    http://0gram.me/
+    @jxwr
+    
+    Axknightroad
+    http://sangbuqi.com
+    @axknightroad
+    
+    iCaker
+    http://icaker.info
+    @icaker
+    
+    Lucky-Ivy
+    http://www.lucky-ivy.tk 
+    @yechunxiao19
+    
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Twitter Bootstrap
+
+    

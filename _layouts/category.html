@@ -6,13 +6,13 @@ title: All of The Setup interviews in this category
 {% for post in site.categories.[page.category] %}
 	<li>
 		<figure>
-	    		<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'></a>
+	    		<a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'><img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'></a>
 		</figure>
 	
-		<h2><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
+		<h2><a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
 		<p class='summary'>{{post.summary}}</p>
 		<p class='details'>
-			Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in 
+			发表于 <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in 
 			{% assign categories=post.categories %}
 			{% include categories.html %}
 		</p>

@@ -1,46 +1,51 @@
-<!DOCTYPE html>
-<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>{{page.title}}</title>
-		<link href="{% if page.person %}http://usesthis.com{% endif %}/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-		<link href="{% if page.person %}http://usesthis.com{% endif %}/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, minimum-scale=0.6, maximum-scale=1.0" />
-	</head>
-	<body>
-		<header>
-			<h1><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">The Setup</a></h1>
-			<p id="tagline">What do people use to get stuff done?</p>
-		</header>
-		<nav>
-			<ul>
-				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/interviews/" title="All the other interviews.">Interviews</a></li>
-				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/about/" title="A little more info about the site.">About</a></li>
-				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/community/" title="Other interviews by people like you.">Community</a></li>
-				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/feed/" title="The site's Atom feed.">Feed</a></li>
-				<li><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a></li>
-			</ul>
-		</nav>
-		<aside id="sidebar">
-			<p>
-			  <!--[if IE]>
-			  <script type="text/javascript">
-			  document.write(unescape('%3Cscr' + 'ipt src="http://adn.fusionads.net/www/pull/get.php?zoneid=100&charset=UTF-8&withtext=1&cb=' + Math.floor(Math.random() * 99999999999) + '"%3E%3C/script%3E'));
-			  </script>
-			  <![endif]-->
-			  <!--[if !IE]><!-->
-			  <script defer="defer" type="text/javascript">
-			  document.write(unescape('%3Cscr' + 'ipt src="http://adn.fusionads.net/www/pull/get.php?zoneid=100&charset=UTF-8&withtext=1&cb=' + Math.floor(Math.random() * 99999999999) + '"%3E%3C/script%3E'));
-			  </script>
-			  <!--<![endif]-->
-			</p>
-			<p><a href='http://fusionads.net' title='Powered by Fusion Ads'>POWERED by FUSION</a></p>
-		</aside>
-		<section id="contents">
-		{{content}}
-		</section>
-		<footer>
-			<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
-	  	</footer>
-	</body>
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="zh-CN"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{page.title}}</title>
+  <meta name="description" content="">
+  
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/libs/modernizr-2.5.2.min.js"></script>
+</head>
+<body>
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+  	<header>
+			<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
+			<p id="tagline">他们用什么搞定生活？</p>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="/interviews" title="All the other interviews.">所有</a></li>
+			<li><a href="/about" title="A little more info about the site.">关于</a></li>
+			<li><a href="/feed/" title="The site's Atom feed.">订阅</a></li>
+		</ul>
+	</nav>
+	<aside id="sidebar">
+	</aside>
+	<section id="contents">
+	{{content}}
+	</section>
+	<footer>
+		<p>基于 <a href="http://usesthis.com/">The Setup</a>，如未特殊声明，所有内容均以 <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> 发布 2012</p>
+  	</footer>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+
+  <script src="/js/plugins.js"></script>
+  <script src="/js/script.js"></script>
+
+  <script>
+    var _gaq=[['_setAccount','UA-8230755-7'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
 </html>

@@ -1,2 +1,2 @@
-permalink: /interviews/:title.html
+permalink: /interviews/:title
 exclude: ['hardware', 'software', 'README']

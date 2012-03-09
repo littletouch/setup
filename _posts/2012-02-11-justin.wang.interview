@@ -1,0 +1,44 @@
+---
+layout: post
+title: "汪彧之"
+slug: "justin.wang"
+person: "汪彧之"
+summary: "Linuxer, 研究生预备"
+categories: ['linux', 'music', 'guitar', 'developer', 'vim']
+---
+###  简要介绍一下自己，并且谈谈正在做什么？
+
+我是 [@bigeagle_xd](http://bigeagle.me "K.I.S.S|Keep It Simple Stupid")， 一个本科僧，即将升为研究僧。 目前在做毕业设计，课题是无线传感网络，一个很有意思的方向，综合性比较强，硬件设计、操作系统、数据挖掘神马的都要做，所以工作压力也略大。我喜欢音乐和美术，@ant_sz说我技能线畸形发展…… 好吧求妹纸
+
+###  你有哪些硬件设备?
+
+我的notebook是08年购置的 [Dell Latitude D630][dell-latitude-d630]，性能有些跟不上时代了，不过写写代码什么的基本还是够的，电池坏了，续航只能3分钟…… 打算今年攒点银子换个 Thinkpad，再买个 SSD(YY是一件很爽的事情)。
+实验室给每个人都配了台式机，都是兼容机，我自然也有一台，只是内存被人拔走了现在开不了机…哭… 打算找 boss 再给我配一台新的。
+手机是 [HTC Desire Z][htc-desire-z]，我喜欢它的全键盘。我还有个 [Kindle keyboard wifi 广告版][kindle-keyboard]，是的我喜欢全键盘。
+
+我喜欢音乐，是 NewBeast 乐队的节奏吉他手，有一把手工木吉他，面单，音色还不错。我喜欢 elixir 弦，寿命长，省银子… 演出和录音需要，装了个 L.R. M1 拾音器，略有些后悔，这款拾音器银色比较温暖，适合弹抒情的曲子，给摇滚乐伴奏总觉得缺点什么… 摇滚乐手还是老实装压电式拾音器吧。
+
+### 那么软件呢?
+
+我是自由软件控，仅仅是控而已，没到RMS那样的程度… 操作系统当然是 GNU/Linux 了，现在使用 [Archlinux][arch-linux] 作为首选发行版，因为定制化程度比较高，而且滚动更新，不存在「升级」的烦恼。为何不用 [gentoo][]? 因为电脑太慢了，编译10+个小时我就算有耐心也没时间阿……
+
+和大多数 Linuxer 一样，我也算是个程序猿，写代码什么的是一种艺术，创造一个自己的世界，很有意思。我常用 [C][] 和 [python][] 作为主力开发语言，最近在写一个 Web 系统和 gnome-shell 插件，所以也逐渐爱上了 [Javascript][]。我喜欢自由，所以我非常讨厌 Java 这样的语言，各种硬性规定，用「面向对象」去限制开发模式，好吧仅仅是讨厌，不能磨灭 Java 对软件工程的贡献，Java 大牛们也是很牛的，Java 只是不适合我。
+
+[Vim][]，我最喜欢的编辑器，[Emacs][]?那是操作系统……
+
+我的桌面环境现在是 [Gnome 3][gnome]，过去一直用，现在偶尔也用 [openbox][]，写这份采访的时候我正用着 openbox，原因么…… Openbox很lightweight～  我很喜欢 Gnome 3 的理念，虽然它现在还很不成熟。给 [GNOME-Shell][] 开发 extension 是一件很惬意的事情，整个 gnome-shell 都是 Javascript 写的，所以可以随意 hack，非常有意思。
+ 
+我的输入法是 [fcitx][], 比 [ibus][] 快，而且在 fcitx-cloudpinyin 的帮助下词库也不是问题～ 顺便做个广告，GNOME-Shell 用户可以试试我开发的 kimpanel for gnome-shell，搞定 fcitx 与 gnome-shell 的集成哦
+
+还有什么呢?听音乐，我用 [mpd][]，轻量级，而且很灵活，可以和各种桌面环境集成。排版，[LaTeX][]，没商量。哦，还有 [Git][]，强大到爆的VCS，[github][]的出现让我对 coding 充满欲望。[Hotot][]，主力 twitter 客户端。[MyPaint][]，画画。[Inkscape][]，画矢量图。
+
+好吧还有好多，不一一列举了。
+### 你梦想中的设备是怎么样的?
+
+Thinkpad X系列的 Tablet，轻便又强大，带压感的触摸屏我很喜欢，用来画画真是太惬意了。配上 SSD，等 [btrfs][] 稳定了用 btrfs 作文件系统，subvolume 很吸引人。
+
+如果 Galaxy Nexsus 有全键盘的话那将是我梦想中的手机……
+
+吉他我爱 [Taylor][taylor-guitar]，还想要套电鼓，挺喜欢打鼓的
+
+好像还缺个高性能计算的？那就再加个小集群吧，跑个 [distcc][] 我就换 gentoo～
