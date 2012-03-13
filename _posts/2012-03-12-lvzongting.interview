@@ -3,7 +3,7 @@ layout: post
 title: "吕宗庭"
 slug: "lvzongting"
 person: "吕宗庭"
-summary: "Linuxer, 研究生预备"
+summary: "计算机研究生"
 categories: ['linux', 'math', 'developer', 'vim']
 ---
 ###  简要介绍一下自己，并且谈谈正在做什么？
@@ -13,8 +13,8 @@ categories: ['linux', 'math', 'developer', 'vim']
 ###  你有哪些硬件设备?
 
 [nokia N900][n900] maemo系统，里面有些非常nice的网络工具。
-[eeepc 1000HE][eee-pc-1000he] debian 32位，我随身携带的一个工具，这个东西和我呆的时间最长，特点就是键盘舒服，因为我的手比较小，屏幕舒服，还有电池可以支撑6个半小时。写程序、笔记必备利器。
-小黑 archlinux 64位，这个是我家里用的设备，具体配置保密，因为其实他的配置经常变动。
+[eeepc 1000HE][eee-pc-1000he] [debian][] 32位，我随身携带的一个工具，这个东西和我呆的时间最长，特点就是键盘舒服，因为我的手比较小，屏幕舒服，还有电池可以支撑6个半小时。写程序、笔记必备利器。
+小黑 [archlinux][arch-linux] 64位，这个是我家里用的设备，具体配置保密，因为其实他的配置经常变动。
 二黑 archlinux 64位+debian32位，这个是我实验室老师给的设备i3的cpu、4G内存、3张千兆网卡、两块1T硬盘(390块买的油)、其他参数就不太重要了。
 MobileGearII MC-R700 +2G CF card 元老级的功臣，里面一直是NetBSD 陪我度过两年时光，eeepc之前在宿舍就是用这个写程序。不能播放mp3，一般就是用vim，X可以，framebuffer可以，而且颜色鲜艳。 可以上网，网卡是4线的，ws帮我做的连线和电池。电池为3块手机电池。充电电路是原来的，电源适配器是改装过的。当然可以识别绝大部分USB设备。
 
@@ -23,9 +23,9 @@ MobileGearII MC-R700 +2G CF card 元老级的功臣，里面一直是NetBSD 陪�
 
 这个，没有什么特别的我就不说了。
 当然是[VIM][]呀，以前[csh][]一段时间，后来也慢慢[bash][]了。
-其实桌面管理器一直很随意，从[gnome3][]开始才喜欢上的桌面管理器。
+其实桌面管理器一直很随意，从[gnome3][gnome]开始才喜欢上的桌面管理器。
 还有[python][]、[perl][]、[matlab][]，剩下的就是一些库和细小的工具了。
-浏览器是[chromium][]和[firefox][]，当然64位的时候用waterfox。
+浏览器是[chromium][]和[firefox][]，当然64位的时候用[waterfox][]。
 其实，说心里话[linux][]下软件的概念没有那么强，都是一些细小的工具相互配合着用。
 
 ### 你梦想中的设备是怎么样的?
