@@ -1,0 +1,24 @@
+---
+layout: post
+title: "姚欣宇"
+slug: "yaoxinyu"
+person: "姚欣宇"
+summary: "GitCafe创始人, SHLUG组织者"
+categories: ['mac', 'developer', 'rails']
+---
+
+###  简要介绍一下自己，并且谈谈正在做什么？
+
+我的真名是姚欣宇，叫我Thomas即可，网络id是 ghosTM55。目前正在创业，做的是[GitCafe](http://gitcafe.com/ "GitCafe")，刚上线不久，还有许多功能需要完善，社区内对GitCafe的期望值很高，我们希望可以将服务和产品尽可能地完善到我们满意的程度再正式推出可以让大家公开注册使用。除此之外，同时也是[SHLUG](http://www.shlug.org/)的组织者。SHLUG成立于1997年，是国内最早也是规模最大最活跃的Linux User Group，我从09年开始正式接管SHLUG，主要要做的事情是组织各类shlug活动，管理邮件列表等。
+
+###  你有哪些硬件设备?
+
+我拥有的设备是[MacBook Pro][macbook-pro], [iPhone 4S][iphone-4s], [iPad 1][ipad], [Samsung Galaxy Tab 10.1][galaxy-tab], [Thinkpad T61][thinkpad-t61], [Thinkpad X61][thinkpad-x61]。但主要在用MacBook Pro和iPhone 4S，其他设备不会经常去用，Thinkpad已经基本不用了。
+
+### 那么软件呢?
+
+在用开发软件主要就是[emacs][]和[chrome][]/[firefox][]浏览器。[sublime text 2][sublime-text-2]也是一个非常优秀的编辑器，它默认支持了emacs式的快捷键，很少量的配置即可获得很强大的功能。在开发GitCafe的时候，我们使用的是[rails][]。MacBook Pro上的[mac os x][mac-os-x]堪称完美，商业软件的支持，用户体验，以及本身是unix系统，而非unix-like。相对于Linux来说，Mac OS X的几点不足在于定制性差，并且字体渲染做的没有Ubuntu好。定制性差其实也算是一种优势，就看个人对系统定制要求的态度。
+
+### 你梦想中的设备是怎么样的?
+
+其实就目前这个阶段和时代的技术来说，苹果已经做的很理想了，只是一方面它没有开源不能hack，另一方面计算机技术受限于人工智能与生物、材料学的发展的瓶颈，没有更大的突破。另外，Mac OS X在输入以及网络链接效率上还可以做得更极致。
