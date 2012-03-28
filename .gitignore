@@ -1,5 +1,4 @@
 .DS_Store
 _site
 *.tmproj
-*.py
 *.pyc
