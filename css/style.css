@@ -72,7 +72,7 @@ text-decoration: none;
 }
 
 a[rel] {
-    background-color: #f9f9f9;
+    background-color: white;
     border: solid 1px #eee;
     padding: 3px;
     -moz-border-radius: 5px;
@@ -160,6 +160,14 @@ dt {
     color: #777;
     font-size: 120%;
     font-weight: 300;
+}
+
+dt:before {
+    content: "Q: ";
+}
+
+dd:before {
+    content: "A: ";
 }
 
 figure {
