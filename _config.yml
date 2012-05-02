@@ -1,2 +1,2 @@
 permalink: /interviews/:title
-exclude: ['hardware', 'software', 'README']
+exclude: ['hardware', 'software', 'README', '*.py']

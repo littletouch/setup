@@ -1,0 +1,33 @@
+---
+layout: post
+title: "虬髯鹤"
+slug: "cranew"
+person: "虬髯鹤"
+summary: "新闻翻译, 语言爱好者"
+categories: ['mac', 'translator']
+---
+###你是谁，在做什么？
+
+[虬髯鹤](http://cranew.info)，职业是新闻翻译，业余学习语言。经常会在维基词典上添加词条，偶尔会在维基百科上修改或撰写条目。
+
+###你在用哪些硬件？
+
+一台 13 寸 [MacBook Pro][macbook-pro] 一天绝大多数的时间是在电脑上度过的，打字时键盘触感超爽，有没有！一个带 [Kindle 3][kindle-keyboard]，阅读英文书和杂志，并配合 Google Chrome 的 [Send to Kindle](https://chrome.google.com/webstore/detail/ipkfnchcgalnafehpglfbommidgmalan) 插件，把网上遇到的长文发过来阅读。一台 [Kindle DX][kindle-dx]，用来读大开本的 PDF。还有一个 [iPod nano][ipod-nano]，用来在上下班路上听 podcast（严重严重严重推荐 NPR 的 [All Songs Considered](http://www.npr.org/rss/podcast/podcast_detail.php?siteId=4819413)，以及电子风格的 [Just Good Music](http://justgoodmusic.libsyn.com/)）。对了，还有一坨 [iPad][] 一代，偶尔会用一用。
+
+###那软件呢？
+
+RSS 阅读器 [Reeder][]，它既有 iOS 版本，也有 Mac 版，能和 Google Reader 同步，还能把某一篇文章发送到 [Readability][]、[Instapaper][] 等服务，等你有时间后再读，也可以发送到 Evernote 等服务收藏起来。
+
+编辑器 [Byword][]，在工作时用得最多。这是一款简洁、明快的编辑器，能够全屏显示避免分散注意力，还支持 RTF（仅限对文字加粗、下划线和斜体）和 Markdown。另一款编辑器（免费）[Mou][]，在左边窗格输入 Markdown，右边窗格就会显示出实际效果，还可以把右边窗格的内容直接用 HTML 复制到别处。在写 blog 的时候十分好用。
+
+写作软件 [Scrivener][]，它不仅是一个编辑器，不仅是一个「字处理软件」，真的可以单独拎出来归类为「写作软件」。如果你需要经常写长一点的文章，无论是学术文还是报告，或者是小说、剧本，那么你绝对绝对应该使用 Scrivener。写着写着，它就能「帮你」整理出条例来，我还曾经专门在自己 blog 上写过一篇[脑残粉文章](http://cranew.info/zh/2012/scrivener-is-awesome/)。如果需要写一篇很长的东西，比如维基百科的条目，就会用它。
+
+我用 [Evernote][] 记笔记，包括查到的词汇和背景知识等等。它或许可能界面没那么好看，排版功能没那么强，但搜索好用、可以跨平台同步、自动对图片里的文字 OCR（仅限英文）、还有方便的插件和大量可以配合使用的服务（如上文说的 Reeder 以及下文将提到的 Zite，甚至 ifttt），它是一个不错的选择。用 [Skitch][] 在 Mac 和 iOS 上可以画一些简单的图，并保存在 Evernote 里。我会用 [Anki][] 背单词，它有免费 PC、Mac、Linux 以及 Web 版本，按遗忘周期和记忆效果提醒你该复习的词汇。
+
+另一个不可缺少的东西是新闻聚合软件 [Zite][]，你在阅读新闻时可以点喜欢、不喜欢，选择多读一些某家媒体或某个作者的文章。软件会按照你既往的偏好挑选文章显示给你。据说国内的 Zaker 是模仿它的，但我感觉并不相同，Zaker 上人为编辑的痕迹太重了，而在 Zite 上真的能感觉到软件会对用户偏好作出反馈。我现在用 iPad 基本上只用这一个软件了。
+
+还有「治疗」注意力不集中的断网软件叫 [SelfControl](http://visitsteve.com/made/selfcontrol/)（Windows 上大同小异的东西叫 [SelfRestraint](http://parker.kuivi.la/projects/selfrestraint.html)），还有通过「[番茄工作法](http://25in1.com/)」来治疗拖延症的软件 [FocusBooster](http://www.focusboosterapp.com/)。
+
+###你梦想中的设备是怎么样的？
+
+电脑完全抛弃机械硬盘（比如像 MacBook Air），完全排除拼音输入法的错别字，Evernote 能提供汉字 OCR。出现一家靠谱的中文电子书店。再发明一台能让一天有 48 小时的神奇机器。
