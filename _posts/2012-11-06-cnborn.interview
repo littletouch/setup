@@ -1,0 +1,51 @@
+---
+layout: post
+title: "CNBorn"
+slug: "cnborn"
+person: "CNBorn"
+summary: "Python Web开发者, Open Party组织者"
+categories: ['linux', 'mac', 'python', 'developer', 'web']
+---
+
+
+### 你是谁？在做什么？
+
+程序员，工作中主要使用[Python][]进行Web开发。在不写程序的时候喜欢写文章发布在[自己的Blog](http://cnborn.net/blog)上，或者努力安排时间去旅行。是[Beijing OpenParty](http://www.beijing-open-party.org)的主要组织者之一。
+
+### 在用哪些硬件？
+
+日常使用一台 [MacBook Pro 17'](http://www.apple.com.cn/macbook-pro/) (mid-2010)，性能至今都很不错。问题只有两点：重量、屏幕虽然接近Retina却没有接近Retina的字体解决方案，导致比较伤眼睛。
+
+[iPod Touch 5](http://www.apple.com.cn/ipod-touch/): iPod Touch爱好者，上一台iPod Touch 2nd-Gen使用了近4年，现在仍然可以使用。[雅器S718](http://www.arcci.com.cn/?page-s718.html): 平时手机用得比较少，所以这台老人手机的功能足够了，设计美观，价格便宜且耐用，正是理想的手机。
+
+[Nikon D60](http://www.dpreview.com/products/nikon/slrs/nikon_d60): 08年买的第一台单反，陪我走了很多地方，淋过雨也吃过泥。体积小巧且成像效果好，后来买了[Nikkor AF-S 35mm F1.8](http://www.dpreview.com/products/nikon/lenses/nikon_35_1p8) 镜头，这个搭配已经足够小巧实用了。[Panasonic Lumix FS15](http://www.dpreview.com/products/panasonic/compacts/panasonic_dmcfs15): 在柬埔寨时单反淋雨暂时失效时买的备机，结果在埃及时吃了沙子，所幸后来也像单反一样自行恢复正常了。
+
+[PlayStation 3](http://asia.playstation.com/hk/en/ps3/console): 娱乐时使用的设备
+
+### 在用哪些软件？
+
+[Mac OS X][mac-os-x], [Ubuntu][]/[Gentoo][]: 用OS X之前，是多年的Ubuntu用户，在目前的VPS上使用Gentoo。
+
+iTerm2 + tmux / bash or zsh + oh-my-zsh 没什么好说的终端解决方案。
+
+[Emacs][], [Vim][]: 2012年才开始使用Emacs，用出感觉之后就开始把各种事情都放在Emacs里面来做了。起先用的是[Aquamacs](http://aquamacs.org/)，目前用的是[Homebrew](https://github.com/mxcl/homebrew)里面的Emacs 24。之前许多年都是Vim用户。
+
+[Evernote](http://www.evernote.com)主要用来做即兴写作和记录草稿。
+
+[Alfred](http://www.alfredapp.com/) + [Spectacle](http://spectacleapp.com/): 用来在Mac上尽一切所能减少鼠标操作，提高效率
+
+[LimeChat](http://limechat.net/mac/): IRC通信工具，工作使用。[Skype](http://www.skype.com): 工作时使用的通讯工具。虽然推出已经两年了，但是仍然很喜欢Skype 5引入的新设计。
+
+代码主要托管在[Github](http://www.github.com)及公司内部的Code系统（内部开发的类似Github的系统，有更多的定制功能）上。
+
+[Kindle 3G][kindle] + [豆瓣阅读](http://read.douban.com): 最好的电子阅读平台解决方案。
+
+[Spotify](http://www.spotify.com): 用起来就欲罢不能的音乐服务，费劲周折成为了付费用户。
+
+[Pelican](http://docs.getpelican.com/en/3.0/): Python平台的静态Blog系统，开发和社区都相当活跃。[cnborn.net](http://cnborn.net)基于此构建。
+
+### 你理想中的设备是什么样的？
+
+MacBook Air的体积+Retina屏幕，或者工艺和技术上可以与之向匹敌的PC可以用来装Linux（但PC要做到这点似乎很困难）。
+
+更加方便的软+硬观影解决方案：作为书影音资源的重度消费者，目前阅读和音乐已经有了不错的解决方案，但是一个类似Netflix/iTunes/PSN Store的影视平台仍然没有建立起来，使用过国内几家视频网站的付费服务，还是和理想中的服务差距很大。
