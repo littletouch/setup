@@ -1,0 +1,54 @@
+---
+layout: post
+title: "听临"
+slug: "yaofur"
+person: "听临"
+summary: "Web Developer, Bubbler 作者"
+categories: ['mac', 'developer', 'web']
+---
+
+###  简要介绍一下自己，并且谈谈正在做什么？
+
+听临, 快毕业的学生, Web Developer
+
+网络id主要是yaofur/kebot中文就叫听临, 主要做web开发，语言主要是[CoffeeScript][] / [Python][]
+
+能看到的作品是我和 [@irachex](http://irachex.com/) 合作的 [Bubbler](http://bubbler.labs.douban.com/)
+
+###  你有哪些硬件设备？
+
+2009年的Macbook（小白）+ 苹果的鼠标键盘，aoc的外接屏幕，new iPad(iPad3)，[BBK Vivo X1](http://www.bbk.com/vivo/x1/function.php)(步步高的Android机)
+
+## 那么软件呢
+
+主要介绍下Mac平台吧，ipad和android折腾得不多。
+
+我用 [RescueTime](https://www.rescuetime.com/)来统计我在app、网站花费的时间。
+
+最常用的当然是 [Chrome](http://www.chrome.com/) 和 [iTerm2](http://www.iterm2.com/) 浏览器平台和shell平台有太多的应用。
+
+### Shell
+
+[homebrew](http://mxcl.github.io/homebrew/) 和 [homebrew-cask](https://github.com/phinze/homebrew-cask) 加上 Mac App Store 来管理各种程序的安装和卸载。
+
+zsh + [oh-my-zsh）](https://github.com/robbyrussell/oh-my-zsh) 是我的默认 shell， vim / macvim + [janus](https://github.com/carlhuda/janus) 作为默认编辑器。
+
+### Gui
+
+git 的 gui 客户端我一般用 [gitx-r](http://rowanj.github.com/gitx/) (gitx是开源项目有很多分支可以自由选择)。[Dash](https://itunes.apple.com/us/app/dash-docs-snippets/id458034879?mt=12) 用来快速查文档。
+
+gtd软件层出不穷，我一般用[OmniFocus](http://www.omnigroup.com/products/omnifocus) 来管理自己的项目，然后用[Any.Do](http://www.any.do/) 来管理生活琐事。
+
+[1Password](https://agilebits.com/onepassword)用来管理密码。 [Alfred](http://alfredapp.com/) 用来快速启动（并禁用了SpotLight）。
+
+遇到中文写作，我会用 [Mou](http://moustand.com/)。和开发有关的笔记基本都写在 [vimwiki（vim插件）](https://github.com/vim-scripts/vimwiki) 里。遇到杂事就往evernote里塞，不过Mac版的evernote编辑器怎么看怎么难看。
+
+看电影现在基本用[xmbc](http://xbmc.org/)，可能机器太老，很多高清[mplayerx](http://mplayerx.org/)声音和画面不同步。不看高清的话迅雷云点播就能满足需求。
+
+我用dradio和[diumoo][]或者网页版的豆瓣电台来听歌（选哪个看心情）。
+
+## 你理想中的设备是什么样的？
+
+Google Glass + Mac, 现有设备限制了我只能宅在一个地方才能用到上面的东西，而Google Glass作为显示器，可以做到随时随地都能hack。
+
+（给ipad装上terminal的事我会到处乱说嘛~）
