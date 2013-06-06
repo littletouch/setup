@@ -10,5 +10,5 @@ env.path = '/home/wwwroot/setup.xiuxiu.de'
 
 
 def deploy():
-    local('jekyll')
+    local('jekyll build')
     rsync_project(env.path, local_dir='_site/', delete=True, exclude=['*.pyc','*.py', 'build'])

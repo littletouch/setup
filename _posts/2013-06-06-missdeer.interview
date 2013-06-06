@@ -1,0 +1,49 @@
+---
+layout: post
+title: "类库"
+slug: "missdeer"
+person: "类库"
+summary: "纯粹的 C++ 程序员"
+categories: ['developer', 'linux', 'windows', 'mac']
+---
+
+###  简要介绍一下自己，并且谈谈正在做什么？
+
+网名[类库](http://about.me/missdeer)，惯用id优先missdeer，如果被抢注了就missdeerme。一个苦逼虚胖程序员，用C++，不会其他语言，很弱很纯粹有木有！现在在一家很小的算外资的
+公司写代码，视频流的网络传输，很渣很简单有木有！
+
+###  你有哪些硬件设备？
+[Kindle4][kindle]，从一位推友那里入来的，成色很好，感觉相当值，用来看每天早晚各
+一次推送的Google Reader打包，看网络小说，在地铁上再也不自卑别人用
+[iphone][]而自己用[android][]了。
+[Kindle DXG][kindle-dx]，因为入了Kindle4后看扫描版PDF即使切了边还是觉得不太舒服，于
+是咬牙瞒着家里那位偷偷从hipad入的全新的，比较贵，太重了，很少看，看PDF
+字还是偏小，有点划不来。
+[iPad2][ipad-2]，都让家里那位用来看优酷奇艺了，从来不花钱买app，所以也从来没发现
+它的优势在哪里。
+[iPod Touch4][ipod-touch]，这东西相当鸡肋啊，我又没有路上听歌看片的习惯，所以相当无
+味啊。
+2010款的[Mac mini][mac-mini]，刚开始还觉得性能不错，后来运行越来越慢，最后上某宝买
+了2根4G内存，从2G扩大到8G后，总算跑得顺畅一点了。体验了[OSX][mac-os-x]，仍然没把我
+彻底吸引过去，虽然把我从Windows吸引走了，但我最终跑到了 [Debian][] + [KDE][]。
+有个AMD系的组装机，装了4个系统，分别是装机商给装的Win7旗舰版和后来又自
+己加了硬盘加装的[Ubuntu][]，[Linux Mint][mint]，[Debian][]，三个发行版用着三个不同的
+DE，发现[GNOME][]真渣啊，活该没人用。
+
+## 那么软件呢
+Windows，Linux，Mac三个系统都要用的软件有[Firefox][]，[Thunderbird][]，[Rime](https://code.google.com/p/rimeime/)。
+
+Firefox从毕业后就一直用着，即使[chrome][]也没能让我转移阵营，没找到原因。
+Thunderbird是最近想搞GPG签名什么的，就它最方便又跨平台。Rime嘛，输入的
+使用习惯是很强大的，所以终于有了一个可以跨平台使用的输入法了，Linux上
+现在比较习惯用 [fcitx][]，[LinuxMint][mint] 和 [Debian][] 上都需要自己编译fcitx-rime的，挺简单的，基本上都能直接编译通过。
+写大量代码的时候，还是离不开[Visual Studio][visual-studio]，其实是离不开[Visual Assist
+X](http://www.wholetomato.com/)。其他时候用[vim][]，发现[clang complete](https://github.com/Rip-Rip/clang_complete)挺慢的，卸了。
+其他的，[git][]和[mercurial][]算不算，啊哈哈。
+对了，对于那些想出去透透气的人们，强烈推荐shadowsocks这个东东，有各种
+语言的实现，这两天bitbucket突然抽风了，通过netcat-openbsd连shadowsocks
+转发ssh相当赞啊！
+
+## 你理想中的设备是什么样的？
+
+一定要有舒服的全键盘输入，不用时可以想办法收藏起来。要有合适大小的屏幕，而且得能适应强阳光或黑暗环境。不能太重，方便的硬件扩展接口。上网功能当然不能少。能自己装Android甚至其他Linux发行版最好了。
