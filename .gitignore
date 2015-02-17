@@ -3,3 +3,4 @@ _site
 *.tmproj
 *.pyc
 _jekyll_s3.yml
+.bundle/

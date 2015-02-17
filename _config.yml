@@ -1,3 +1,4 @@
 permalink: /interviews/:title
 exclude: ['hardware', 'software', 'README', '*.py']
-markdown: redcarpet
+markdown: kramdown
+description: 他们用什么搞定生活？
