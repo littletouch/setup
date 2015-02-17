@@ -1,20 +1,20 @@
 ---
-layout: nil
+layout: null
 permalink: /feed/index.html
 ---
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>The Setup</title>
-	<link href="http://setup.xiuxiu.de/" />
-	<link href="http://setup.xiuxiu.de/feed/" rel="self" />
-	<id>http://setup.xiuxiu.de/</id>
+	<link href="http://setup.littletouch.org/" />
+	<link href="http://setup.littletouch.org/feed/" rel="self" />
+	<id>http://setup.littletouch.org/</id>
 	<updated>{{site.posts[0].date | date_to_xmlschema}}</updated>
 	<author><name>Sean Lee</name></author>
 	{% for post in site.posts %}
 	<entry>
 		<title>{{post.person}}</title>
-		<link href="http://setup.xiuxiu.de/interviews/{{post.slug}}/" />
-		<id>http://setup.xiuxiu.de/interviews/{{post.slug}}/</id>
+		<link href="http://setup.littletouch.org/interviews/{{post.slug}}/" />
+		<id>http://setup.littletouch.org/interviews/{{post.slug}}/</id>
 		<published>{{post.date | date_to_xmlschema}}</published>
 		<updated>{{post.date | date_to_xmlschema}}</updated>
 		{% for category in post.categories %}<category term="{{category}}" />

@@ -6,12 +6,20 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{page.title}} · {{page.summary}} · The Setup</title>
-  <meta name="description" content="">
-  
+  <title>{{page.title}} · The Setup</title>
+
+  {% if page.person %}
+    <meta name="description" content="{{page.person}}，{{ page.summary }}">
+    <meta property="og:description" content="{{page.person}}，{{ page.summary }}">
+  {% else  %}
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+
+
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="/css/style.css">
-  <script src="/js/libs/modernizr-2.5.2.min.js"></script>
+  <script src="//upcdn.b0.upaiyun.com/libs/modernizr/modernizr-2.7.1.min.js"></script>
 </head>
 <body>
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
@@ -26,17 +34,19 @@
 			<li><a href="/feed/" title="The site's Atom feed.">订阅</a></li>
 		</ul>
 	</nav>
+
 	<aside id="sidebar">
 	</aside>
-	<section id="contents">
-	{{content}}
-	</section>
-	<footer>
-    <p>基于 <a href="http://usesthis.com/">The Setup</a>，如未特殊声明，所有内容均以 <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> 发布 | <a href="http://www.xiuxiu.de/">羞</a> 2013</p>
-  	</footer>
 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+	<section id="contents">
+	   {{content}}
+	</section>
+
+	<footer>
+    <p>基于 <a href="http://usesthis.com/">The Setup</a>，如未特殊声明，所有内容均以 <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> 发布 | <a href="http://www.littletouch.org/">littletouch</a> 2015</p>
+  </footer>
+
+  <script src="//upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js"></script>
 
   <script src="/js/plugins.js"></script>
   <script src="/js/script.js"></script>
