@@ -11,6 +11,7 @@
   {% if page.person %}
     <meta name="description" content="{{page.person}}，{{ page.summary }}">
     <meta property="og:description" content="{{page.person}}，{{ page.summary }}">
+    <meta property="og:image" content="{{site.base_url}}images/portraits/{{page.slug}}.jpg">
   {% else  %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}">
