@@ -6,8 +6,9 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>{{page.title}} · The Setup</title>
+  <title>{{page.title}} · {{site.title}}</title>
 
+  <meta property="og:title" content="{{page.title}} · {{site.title}}">
   {% if page.person %}
     <meta name="description" content="{{page.person}}，{{ page.summary }}">
     <meta property="og:description" content="{{page.person}}，{{ page.summary }}">

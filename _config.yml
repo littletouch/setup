@@ -2,5 +2,6 @@ base_url: http://setup.littletouch.org/
 permalink: /interviews/:title
 exclude: ['hardware', 'software', 'README', '*.py']
 markdown: kramdown
+title: The Setup
 description: 他们用什么搞定生活？
 timezone: Asia/Shanghai
