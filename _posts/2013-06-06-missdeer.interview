@@ -13,6 +13,7 @@ categories: ['developer', 'linux', 'windows', 'mac']
 公司写代码，视频流的网络传输，很渣很简单有木有！
 
 ###  你有哪些硬件设备？
+
 [Kindle4][kindle]，从一位推友那里入来的，成色很好，感觉相当值，用来看每天早晚各
 一次推送的Google Reader打包，看网络小说，在地铁上再也不自卑别人用
 [iphone][]而自己用[android][]了。
@@ -30,7 +31,7 @@ categories: ['developer', 'linux', 'windows', 'mac']
 己加了硬盘加装的[Ubuntu][]，[Linux Mint][mint]，[Debian][]，三个发行版用着三个不同的
 DE，发现[GNOME][]真渣啊，活该没人用。
 
-## 那么软件呢
+### 那么软件呢
 Windows，Linux，Mac三个系统都要用的软件有[Firefox][]，[Thunderbird][]，[Rime](https://code.google.com/p/rimeime/)。
 
 Firefox从毕业后就一直用着，即使[chrome][]也没能让我转移阵营，没找到原因。
@@ -44,6 +45,6 @@ X](http://www.wholetomato.com/)。其他时候用[vim][]，发现[clang complete
 语言的实现，这两天bitbucket突然抽风了，通过netcat-openbsd连shadowsocks
 转发ssh相当赞啊！
 
-## 你理想中的设备是什么样的？
+### 你理想中的设备是什么样的？
 
 一定要有舒服的全键盘输入，不用时可以想办法收藏起来。要有合适大小的屏幕，而且得能适应强阳光或黑暗环境。不能太重，方便的硬件扩展接口。上网功能当然不能少。能自己装Android甚至其他Linux发行版最好了。
