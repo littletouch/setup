@@ -26,28 +26,29 @@
 </head>
 <body>
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-  	<header>
-			<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-			<p id="tagline">他们用什么搞定生活？</p>
-	</header>
-	<nav>
-		<ul>
-			<li><a href="/interviews" title="All the other interviews.">所有</a></li>
-			<li><a href="/about" title="A little more info about the site.">关于</a></li>
-			<li><a href="/feed/" title="The site's Atom feed.">订阅</a></li>
-		</ul>
-	</nav>
+  <section class="site">
+    <header>
+        <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
+        <p id="tagline">他们用什么搞定生活？</p>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="/interviews" title="All the other interviews.">所有</a></li>
+        <li><a href="/about" title="A little more info about the site.">关于</a></li>
+        <li><a href="/feed/" title="The site's Atom feed.">订阅</a></li>
+      </ul>
+    </nav>
 
-	<aside id="sidebar">
-	</aside>
+    <main class="main">
+      <section class="contents">
+         {{content}}
+      </section>
+    </main>
 
-	<section id="contents">
-	   {{content}}
-	</section>
-
-	<footer>
-    <p>基于 <a href="http://usesthis.com/">The Setup</a>，如未特殊声明，所有内容均以 <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> 发布 | <a href="http://www.littletouch.org/">littletouch</a> 2015</p>
-  </footer>
+    <footer>
+      <p>基于 <a href="http://usesthis.com/">The Setup</a>，如未特殊声明，所有内容均以 <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> 发布 | <a href="http://www.littletouch.org/">littletouch</a> 2015</p>
+    </footer>
+  </section>
 
   <script src="//upcdn.b0.upaiyun.com/libs/jquery/jquery-2.0.3.min.js"></script>
   <script src="/js/script.js"></script>

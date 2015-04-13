@@ -5,12 +5,11 @@ title: 首页
 {% for post in site.posts limit:10 %}
 	<figure>
 		{% if forloop.first %}
-		<a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'><img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='335' class='portrait'></a>
+		<a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'><img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' class='portrait'></a>
 		{% else %}
-		<a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'><img src='/images/thumbnails/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='100' class='thumbnail'></a>
+		<a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'><img src='/images/thumbnails/{{post.slug}}.jpg' alt='{{post.person}}' class='thumbnail'></a>
 		{% endif %}
 	</figure>
-	    
 	<h2 class='person'><a href='/interviews/{{post.slug}}' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
 	<p class='summary'>{{post.summary}}</p>
 	<p class='details'>发表于 <time datetime='{{post.date | date: "%Y-%m-%d"}}'>
