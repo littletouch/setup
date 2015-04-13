@@ -1,5 +1,4 @@
 /*  google webfonts */
-@import url(http://fonts.googleapis.com/css?family=Asap);
 
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
 audio, canvas, video { display: inline-block; *display: inline; *zoom: 1; }
@@ -140,7 +139,7 @@ aside#sidebar {
 
 body {
     padding: 40px 20px;
-    margin: 0;	
+    margin: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
     font-weight: 400;
     font-size: 15px;
@@ -350,7 +349,7 @@ margin-bottom: 15px;
 	section#contents {
 	    width: auto;
 	    line-height: 32px;
-	}	
+	}
 }
 
 
@@ -359,7 +358,7 @@ margin-bottom: 15px;
 
 
 @media only screen and (min-width: 35em) {
-  
+
 
 }
 
@@ -374,13 +373,13 @@ margin-bottom: 15px;
 .clearfix { *zoom: 1; }
 
 @media print {
-  * { background: transparent !important; color: black !important; box-shadow:none !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } 
+  * { background: transparent !important; color: black !important; box-shadow:none !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; }
   a, a:visited { text-decoration: underline; }
   a[href]:after { content: " (" attr(href) ")"; }
   abbr[title]:after { content: " (" attr(title) ")"; }
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; } 
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
   pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
-  thead { display: table-header-group; } 
+  thead { display: table-header-group; }
   tr, img { page-break-inside: avoid; }
   img { max-width: 100% !important; }
   @page { margin: 0.5cm; }
