@@ -329,16 +329,12 @@ margin-bottom: 15px;
         padding: 10px 0;
     }
 
-<<<<<<< HEAD
-@media only screen and (min-width: 35em) {
-
-=======
     img.portrait {
         margin-left: -20px;
         border-left: 0 !important;
         border-right: 0 !important;
     }
->>>>>>> origin/master
+
 
     nav ul {
         margin-bottom: 15px;
