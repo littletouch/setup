@@ -149,7 +149,7 @@ dd:before {
 
 figure {
     padding: 0;
-    margin: 0;
+    margin-bottom: 0;
 }
 
 figcaption {
@@ -311,7 +311,7 @@ margin-bottom: 15px;
 @media screen and (max-device-width: 480px) {
 
     aside {
-        display: none;
+      display: none;
     }
 
     body {
@@ -340,6 +340,12 @@ margin-bottom: 15px;
         margin-bottom: 15px;
         font-size: 90%;
     }
+
+    figcaption {
+        float: none;
+        margin-bottom: 10px;
+    }
+
 }
 
 .ir { display: block; border: 0; text-indent: -999em; overflow: hidden; background-color: transparent; background-repeat: no-repeat; text-align: left; direction: ltr; *line-height: 0; }
